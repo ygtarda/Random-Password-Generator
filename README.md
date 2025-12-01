@@ -1,1 +1,2 @@
 # Random-Password-Generator
+"JavaScript String manipülasyonu ve Math.random() fonksiyonlarını kullanarak geliştirdiğim, kullanıcı tanımlı kriterlere göre güvenli şifreler üreten istemci taraflı (client-side) bir araç."
